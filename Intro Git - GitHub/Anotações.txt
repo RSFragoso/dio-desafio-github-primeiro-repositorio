@@ -1,0 +1,19 @@
+Link para download do git: https://git-scm.com/download
+
+o Git Bash é um terminal extendito para otimizar o uso do Git
+
+Comandos Básicos
+- Mudar de pastas (cd)
+- Listar as pastas (dir)
+- criar pastas/arquivos (mkdir)
+- deletar pastas/arquivos (rmdir) (del)
+- Limpar terminal (cls) ou (Ctrl+l)
+- Iniciar repositório Git (git init)
+- Mover arquivos e dar versionamento (git add, git add*)
+- Criar um commit (git commit)
+- Listar (ls)
+- monitorar os status dos arquivos (git status)
+- criar, ver, excluir conexões com outro repositório (git remote)
+- enviar o conteúdo do repositório local para um repositório remoto (git push)
+- puxar o conteúdo do repositório remoto para um repositório local (git pull)
+- aponta para um repositório existente e faz um clone ou cópia deste repositório no novo diretório, em outro local. (git clone)
